@@ -1,0 +1,17 @@
+.product {
+  width: 200px;
+  margin: 50px;
+  border: 1px solid black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  box-sizing: border-box;
+  padding: 20px;
+  border-radius: 10px;
+}
+.product img {
+  width: 150px;
+}
+
+/*# sourceMappingURL=BestSellersItem.module.css.map */
